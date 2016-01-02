@@ -15,11 +15,16 @@ p {
 	margin: 0px;
 	padding: 0px;
 }
+input {
+	-webkit-appearance: none;
+	-webkit-border-radius:0; 
+    border-radius:0;
+}
 a {
 	text-decoration: none;
 }
 body {
-	font-family:  'Open Sans';
+	font-family:  Nunito, 'Open Sans', Arial;
 }
 :root {
 	font-size: 16px;
